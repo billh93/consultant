@@ -6,6 +6,10 @@
  * Made By MaterializeCSS.com
  */
 
+.social-icons{
+    margin: 0 10px 20px 10px;
+    color: white;
+}
 
 .navbar-fixed{
     z-index: 998 !important;
